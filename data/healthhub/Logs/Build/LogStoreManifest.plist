@@ -5,6 +5,177 @@
 	<key>logFormatVersion</key>
 	<integer>10</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>0DA3373F-0F83-47D3-BF9F-D2C6CB38C018</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>0DA3373F-0F83-47D3-BF9F-D2C6CB38C018.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>healthhub project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>healthhub</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build healthhub</string>
+			<key>timeStartedRecording</key>
+			<real>602238617.18019903</real>
+			<key>timeStoppedRecording</key>
+			<real>602238617.54413497</real>
+			<key>title</key>
+			<string>Build healthhub</string>
+			<key>uniqueIdentifier</key>
+			<string>0DA3373F-0F83-47D3-BF9F-D2C6CB38C018</string>
+		</dict>
+		<key>62FACF78-9336-4417-9C3C-10F126A05DC1</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>62FACF78-9336-4417-9C3C-10F126A05DC1.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>healthhub project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>healthhub</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build healthhub</string>
+			<key>timeStartedRecording</key>
+			<real>602238576.28608096</real>
+			<key>timeStoppedRecording</key>
+			<real>602238577.961362</real>
+			<key>title</key>
+			<string>Build healthhub</string>
+			<key>uniqueIdentifier</key>
+			<string>62FACF78-9336-4417-9C3C-10F126A05DC1</string>
+		</dict>
+		<key>8114A323-ADC2-4711-93AC-8E12D24AF588</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8114A323-ADC2-4711-93AC-8E12D24AF588.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>healthhub project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>healthhub</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build healthhub</string>
+			<key>timeStartedRecording</key>
+			<real>602238604.65915895</real>
+			<key>timeStoppedRecording</key>
+			<real>602238605.03099597</real>
+			<key>title</key>
+			<string>Build healthhub</string>
+			<key>uniqueIdentifier</key>
+			<string>8114A323-ADC2-4711-93AC-8E12D24AF588</string>
+		</dict>
+		<key>878E9424-6F38-4002-857A-019C6D05D2CE</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>878E9424-6F38-4002-857A-019C6D05D2CE.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>healthhub project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>healthhub</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build healthhub</string>
+			<key>timeStartedRecording</key>
+			<real>602238692.79726398</real>
+			<key>timeStoppedRecording</key>
+			<real>602238699.49052298</real>
+			<key>title</key>
+			<string>Build healthhub</string>
+			<key>uniqueIdentifier</key>
+			<string>878E9424-6F38-4002-857A-019C6D05D2CE</string>
+		</dict>
+		<key>D1E64A8A-A1BF-4F2E-85B8-108C1D1ACC7E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D1E64A8A-A1BF-4F2E-85B8-108C1D1ACC7E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>healthhub project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>healthhub</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build healthhub</string>
+			<key>timeStartedRecording</key>
+			<real>602238596.69698906</real>
+			<key>timeStoppedRecording</key>
+			<real>602238597.07198298</real>
+			<key>title</key>
+			<string>Build healthhub</string>
+			<key>uniqueIdentifier</key>
+			<string>D1E64A8A-A1BF-4F2E-85B8-108C1D1ACC7E</string>
+		</dict>
+	</dict>
 </dict>
 </plist>

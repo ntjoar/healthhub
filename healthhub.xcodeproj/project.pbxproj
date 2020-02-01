@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 50;
+	objectVersion = 51;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -53,7 +53,7 @@
 		1ED90F4D23E55D04003E989D /* healthhubUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = healthhubUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		1ED90F5123E55D04003E989D /* healthhubUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = healthhubUITests.swift; sourceTree = "<group>"; };
 		1ED90F5323E55D04003E989D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		1ED90F5F23E5608E003E989D /* Podfile */ = {isa = PBXFileReference; lastKnownFileType = text; path = Podfile; sourceTree = "<group>"; };
+		1ED90F5F23E5608E003E989D /* Podfile */ = {isa = PBXFileReference; lastKnownFileType = text; path = Podfile; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		2315D4F34A8F47E75EB20AC6 /* Pods-healthhub.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-healthhub.release.xcconfig"; path = "Target Support Files/Pods-healthhub/Pods-healthhub.release.xcconfig"; sourceTree = "<group>"; };
 		6CF9FDF6DD5635B2BD1A400D /* Pods-healthhub.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-healthhub.debug.xcconfig"; path = "Target Support Files/Pods-healthhub/Pods-healthhub.debug.xcconfig"; sourceTree = "<group>"; };
 		8283DCD4C87717DA03771FAB /* libPods-healthhub.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-healthhub.a"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -147,7 +147,6 @@
 				6CF9FDF6DD5635B2BD1A400D /* Pods-healthhub.debug.xcconfig */,
 				2315D4F34A8F47E75EB20AC6 /* Pods-healthhub.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};

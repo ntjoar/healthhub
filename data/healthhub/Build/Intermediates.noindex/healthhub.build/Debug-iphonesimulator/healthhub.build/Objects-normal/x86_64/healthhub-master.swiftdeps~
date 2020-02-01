@@ -1,7 +1,7 @@
 version: "Apple Swift version 5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
-options: "37a0dba3b5895e45a125545045e5ea79"
-build_time: [1580541319, 625935000]
+options: "db08d5c82c0fb51f29f6c285a2dae342"
+build_time: [1580545817, 222241000]
 inputs:
-  "/Users/nathantjoar/Downloads/healthhub/healthhub/ViewController.swift": [1580541314, 768033538]
+  "/Users/nathantjoar/Downloads/healthhub/healthhub/ViewController.swift": !dirty [1580545817, 167546041]
   "/Users/nathantjoar/Downloads/healthhub/healthhub/AppDelegate.swift": [1580541314, 755917500]
   "/Users/nathantjoar/Downloads/healthhub/healthhub/SceneDelegate.swift": [1580541314, 765621925]
