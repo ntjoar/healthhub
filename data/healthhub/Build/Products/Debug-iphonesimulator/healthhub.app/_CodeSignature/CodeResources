@@ -4,9 +4,21 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>AppIcon60x60@2x.png</key>
+		<data>
+		6QOvbdOYqpb/H8hSnCpO7DmEJ3Q=
+		</data>
+		<key>AppIcon76x76@2x~ipad.png</key>
+		<data>
+		oiwOim9KcZlpmjVUrTo2rPwhntA=
+		</data>
+		<key>Assets.car</key>
+		<data>
+		cm6IsPzyN7s5X7Ajcnp3UbsYuq8=
+		</data>
 		<key>Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
 		<data>
-		K1e6RICh18cGLotubDKVP7lwA5M=
+		Sjk08v5a+FmlpSKrOhuqzimUR5Q=
 		</data>
 		<key>Base.lproj/LaunchScreen.storyboardc/Info.plist</key>
 		<data>
@@ -14,11 +26,11 @@
 		</data>
 		<key>Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib</key>
 		<data>
-		bbyEXmXsBxyJqFWBxHgVkBV6lXs=
+		Ck9ohSzcdIVhsE7x5+WmGP9wQXk=
 		</data>
 		<key>Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib</key>
 		<data>
-		bvlco1C5yWb4y0jW+H78uHvR/DA=
+		UUvbW74X/HOmIBOnPD34KDcp2mw=
 		</data>
 		<key>Base.lproj/Main.storyboardc/Info.plist</key>
 		<data>
@@ -26,7 +38,7 @@
 		</data>
 		<key>Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib</key>
 		<data>
-		Q+ORRmAYeTpRUUmFKSsFunxsoCc=
+		MzOaE/c6k18Z5wu7ujP9WLjy6b4=
 		</data>
 		<key>GoogleMaps.bundle/GMSCacheStorage.momd/Storage.mom</key>
 		<data>
@@ -1142,7 +1154,7 @@
 		</dict>
 		<key>Info.plist</key>
 		<data>
-		RDg55QLhy0dycQo3j4JTFACw8p4=
+		yC5CsrCRwB4KWRVdmneR1LxxZ10=
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -1167,11 +1179,32 @@
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>AppIcon60x60@2x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			dXuBmJnCdq3Jg2pmQOXr8H7leskIXvu6IWmVe3A+Ld8=
+			</data>
+		</dict>
+		<key>AppIcon76x76@2x~ipad.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			SOhzQZIrhcOMreaO9prrnogDQtDHZal7d8e5j71VhAM=
+			</data>
+		</dict>
+		<key>Assets.car</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			mb2ssQ4AqPHr5E/ZP8m4pqPQ3j7mTkILVqXHD6G9JsU=
+			</data>
+		</dict>
 		<key>Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			wZv8AmtXkMfwEywRR7fR4b0TR86P40P96M2hmgiBvwM=
+			mm1j0rHai8kNWQ/cqkPnDxVnG9cu9ghRGqef6N5bTM8=
 			</data>
 		</dict>
 		<key>Base.lproj/LaunchScreen.storyboardc/Info.plist</key>
@@ -1185,14 +1218,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			d/L9eCCiubkcELwBVUOzQZapYYXlKKYO+ckimtjvbm4=
+			iNDYnitc1sdytz5EoLMtWlt4yVrG/AKnQ8mgJtE79kc=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			CPCv5Kz3L/R3b4Cyp76wsqPDSNY7+iagc09ERRCo5mg=
+			044vrd9gByQPrz5O6HZa4jkWiV6VNmO78YCxj2ejm+I=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/Info.plist</key>
@@ -1206,7 +1239,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			mD+GH+a5ADpUPcRHA7YJLdKSGkd7EF38mYuf+LahzZ4=
+			t9/sYO31OHN6ztAZxOml6EK6m0hcv182h5Ozfqugjls=
 			</data>
 		</dict>
 		<key>GoogleMaps.bundle/GMSCacheStorage.momd/Storage.mom</key>

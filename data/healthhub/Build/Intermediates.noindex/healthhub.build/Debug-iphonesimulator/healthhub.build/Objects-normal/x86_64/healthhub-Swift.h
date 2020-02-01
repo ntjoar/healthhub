@@ -195,7 +195,7 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 #if __has_attribute(external_source_symbol)
 # pragma push_macro("any")
 # undef any
-# pragma clang attribute push(__attribute__((external_source_symbol(language="Swift", defined_in="healthhub",generated_declaration))), apply_to=any(function,enum,objc_interface,objc_category,objc_protocol))
+# pragma clang attribute push(__attribute__((external_source_symbol(language="Swift", defined_in="HealthHub",generated_declaration))), apply_to=any(function,enum,objc_interface,objc_category,objc_protocol))
 # pragma pop_macro("any")
 #endif
 
@@ -204,7 +204,7 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 @class UISceneConnectionOptions;
 @class UISceneConfiguration;
 
-SWIFT_CLASS("_TtC9healthhub11AppDelegate")
+SWIFT_CLASS("_TtC9HealthHub11AppDelegate")
 @interface AppDelegate : UIResponder <UIApplicationDelegate>
 - (BOOL)application:(UIApplication * _Nonnull)application didFinishLaunchingWithOptions:(NSDictionary<UIApplicationLaunchOptionsKey, id> * _Nullable)launchOptions SWIFT_WARN_UNUSED_RESULT;
 - (UISceneConfiguration * _Nonnull)application:(UIApplication * _Nonnull)application configurationForConnectingSceneSession:(UISceneSession * _Nonnull)connectingSceneSession options:(UISceneConnectionOptions * _Nonnull)options SWIFT_WARN_UNUSED_RESULT;
@@ -215,7 +215,7 @@ SWIFT_CLASS("_TtC9healthhub11AppDelegate")
 @class UIWindow;
 @class UIScene;
 
-SWIFT_CLASS("_TtC9healthhub13SceneDelegate")
+SWIFT_CLASS("_TtC9HealthHub13SceneDelegate")
 @interface SceneDelegate : UIResponder <UIWindowSceneDelegate>
 @property (nonatomic, strong) UIWindow * _Nullable window;
 - (void)scene:(UIScene * _Nonnull)scene willConnectToSession:(UISceneSession * _Nonnull)session options:(UISceneConnectionOptions * _Nonnull)connectionOptions;
@@ -230,7 +230,7 @@ SWIFT_CLASS("_TtC9healthhub13SceneDelegate")
 @class NSBundle;
 @class NSCoder;
 
-SWIFT_CLASS("_TtC9healthhub14ViewController")
+SWIFT_CLASS("_TtC9HealthHub14ViewController")
 @interface ViewController : UIViewController
 - (void)loadView;
 - (void)viewDidLoad;

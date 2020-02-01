@@ -2,9 +2,9 @@
 provides-top-level:
 - "SceneDelegate"
 provides-nominal:
-- "9healthhub13SceneDelegateC"
+- "9HealthHub13SceneDelegateC"
 provides-member:
-- ["9healthhub13SceneDelegateC", ""]
+- ["9HealthHub13SceneDelegateC", ""]
 provides-dynamic-lookup:
 - "scene"
 - "sceneDidBecomeActive"
@@ -25,7 +25,7 @@ depends-top-level:
 - !private "UIWindowScene"
 - "UIWindowSceneDelegate"
 depends-member:
-- !private ["9healthhub11AppDelegateC", "saveContext"]
+- !private ["9HealthHub11AppDelegateC", "saveContext"]
 - ["s7CVarArgP", "ConnectionOptions"]
 - !private ["s7CVarArgP", "UIApplication"]
 - ["s7CVarArgP", ""]
@@ -149,24 +149,24 @@ depends-member:
 - ["So8NSObjectP", "stateRestorationActivityForScene"]
 - ["So8NSObjectP", "window"]
 - ["So8NSObjectP", "windowScene"]
-- !private ["9healthhub13SceneDelegateC", "AppDelegate"]
-- !private ["9healthhub13SceneDelegateC", "UIApplication"]
-- ["9healthhub13SceneDelegateC", "UIScene"]
-- ["9healthhub13SceneDelegateC", "UISceneSession"]
-- ["9healthhub13SceneDelegateC", "UIWindow"]
-- !private ["9healthhub13SceneDelegateC", "UIWindowScene"]
-- ["9healthhub13SceneDelegateC", "deinit"]
-- ["9healthhub13SceneDelegateC", "init"]
-- ["9healthhub13SceneDelegateC", "scene"]
-- ["9healthhub13SceneDelegateC", "sceneDidBecomeActive"]
-- ["9healthhub13SceneDelegateC", "sceneDidDisconnect"]
-- ["9healthhub13SceneDelegateC", "sceneDidEnterBackground"]
-- ["9healthhub13SceneDelegateC", "sceneWillEnterForeground"]
-- ["9healthhub13SceneDelegateC", "sceneWillResignActive"]
-- ["9healthhub13SceneDelegateC", "stateRestorationActivity"]
-- ["9healthhub13SceneDelegateC", "stateRestorationActivityForScene"]
-- ["9healthhub13SceneDelegateC", "window"]
-- ["9healthhub13SceneDelegateC", "windowScene"]
+- !private ["9HealthHub13SceneDelegateC", "AppDelegate"]
+- !private ["9HealthHub13SceneDelegateC", "UIApplication"]
+- ["9HealthHub13SceneDelegateC", "UIScene"]
+- ["9HealthHub13SceneDelegateC", "UISceneSession"]
+- ["9HealthHub13SceneDelegateC", "UIWindow"]
+- !private ["9HealthHub13SceneDelegateC", "UIWindowScene"]
+- ["9HealthHub13SceneDelegateC", "deinit"]
+- ["9HealthHub13SceneDelegateC", "init"]
+- ["9HealthHub13SceneDelegateC", "scene"]
+- ["9HealthHub13SceneDelegateC", "sceneDidBecomeActive"]
+- ["9HealthHub13SceneDelegateC", "sceneDidDisconnect"]
+- ["9HealthHub13SceneDelegateC", "sceneDidEnterBackground"]
+- ["9HealthHub13SceneDelegateC", "sceneWillEnterForeground"]
+- ["9HealthHub13SceneDelegateC", "sceneWillResignActive"]
+- ["9HealthHub13SceneDelegateC", "stateRestorationActivity"]
+- ["9HealthHub13SceneDelegateC", "stateRestorationActivityForScene"]
+- ["9HealthHub13SceneDelegateC", "window"]
+- ["9HealthHub13SceneDelegateC", "windowScene"]
 - !private ["So13UIApplicationC", "delegate"]
 - !private ["So13UIApplicationC", "shared"]
 - !private ["So21UIApplicationDelegateP", "saveContext"]
@@ -303,7 +303,7 @@ depends-member:
 - ["10Foundation37_KeyValueCodingAndObservingPublishingP", "window"]
 - ["10Foundation37_KeyValueCodingAndObservingPublishingP", "windowScene"]
 depends-nominal:
-- !private "9healthhub11AppDelegateC"
+- !private "9HealthHub11AppDelegateC"
 - "s7CVarArgP"
 - "s28CustomDebugStringConvertibleP"
 - "s23CustomStringConvertibleP"
@@ -311,7 +311,7 @@ depends-nominal:
 - "SH"
 - "So8NSObjectC"
 - "So8NSObjectP"
-- "9healthhub13SceneDelegateC"
+- "9HealthHub13SceneDelegateC"
 - !private "So13UIApplicationC"
 - !private "So21UIApplicationDelegateP"
 - "So30UIPasteConfigurationSupportingP"

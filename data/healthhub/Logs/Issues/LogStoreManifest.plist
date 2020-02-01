@@ -34,7 +34,7 @@
 			<key>uniqueIdentifier</key>
 			<string>CC303B85-3883-4CAD-9D9B-F9F5F5B5EEDE</string>
 		</dict>
-		<key>D09078CD-431A-479B-9B36-8FE5A1B5FDC1</key>
+		<key>FB96FD7E-7E85-4CB0-A7B6-93F9FA316AFD</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogMajorGroupSection</string>
@@ -43,7 +43,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
 			<key>fileName</key>
-			<string>D09078CD-431A-479B-9B36-8FE5A1B5FDC1.xcactivitylog</string>
+			<string>FB96FD7E-7E85-4CB0-A7B6-93F9FA316AFD.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -54,13 +54,13 @@
 			<key>signature</key>
 			<string>healthhub-dezlbqgzagzdevdcofysguauzyzd</string>
 			<key>timeStartedRecording</key>
-			<real>602238692.83316505</real>
+			<real>602245031.43550706</real>
 			<key>timeStoppedRecording</key>
-			<real>602238699.478755</real>
+			<real>602245032.72501302</real>
 			<key>title</key>
 			<string>Build target healthhub</string>
 			<key>uniqueIdentifier</key>
-			<string>D09078CD-431A-479B-9B36-8FE5A1B5FDC1</string>
+			<string>FB96FD7E-7E85-4CB0-A7B6-93F9FA316AFD</string>
 		</dict>
 	</dict>
 	<key>preserveOldLogs</key>

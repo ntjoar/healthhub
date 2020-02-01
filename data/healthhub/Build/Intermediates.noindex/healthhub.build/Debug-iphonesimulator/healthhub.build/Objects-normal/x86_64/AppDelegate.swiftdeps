@@ -2,9 +2,9 @@
 provides-top-level:
 - "AppDelegate"
 provides-nominal:
-- "9healthhub11AppDelegateC"
+- "9HealthHub11AppDelegateC"
 provides-member:
-- ["9healthhub11AppDelegateC", ""]
+- ["9HealthHub11AppDelegateC", ""]
 provides-dynamic-lookup:
 - "application"
 depends-top-level:
@@ -27,34 +27,34 @@ depends-top-level:
 - "UISceneSession"
 - "fatalError"
 depends-member:
-- !private ["9healthhub11AppDelegateC", "$__lazy_storage_$_persistentContainer"]
-- ["9healthhub11AppDelegateC", "Bool"]
-- !private ["9healthhub11AppDelegateC", "GMSServices"]
-- ["9healthhub11AppDelegateC", "NSError"]
-- ["9healthhub11AppDelegateC", "NSPersistentContainer"]
-- ["9healthhub11AppDelegateC", "Set"]
-- ["9healthhub11AppDelegateC", "UIApplication"]
-- ["9healthhub11AppDelegateC", "UIScene"]
-- ["9healthhub11AppDelegateC", "UISceneConfiguration"]
-- ["9healthhub11AppDelegateC", "UISceneSession"]
-- ["9healthhub11AppDelegateC", "application"]
-- ["9healthhub11AppDelegateC", "applicationDidBecomeActive"]
-- ["9healthhub11AppDelegateC", "applicationDidEnterBackground"]
-- ["9healthhub11AppDelegateC", "applicationDidFinishLaunching"]
-- ["9healthhub11AppDelegateC", "applicationDidReceiveMemoryWarning"]
-- ["9healthhub11AppDelegateC", "applicationProtectedDataDidBecomeAvailable"]
-- ["9healthhub11AppDelegateC", "applicationProtectedDataWillBecomeUnavailable"]
-- ["9healthhub11AppDelegateC", "applicationShouldRequestHealthAuthorization"]
-- ["9healthhub11AppDelegateC", "applicationSignificantTimeChange"]
-- ["9healthhub11AppDelegateC", "applicationWillEnterForeground"]
-- ["9healthhub11AppDelegateC", "applicationWillResignActive"]
-- ["9healthhub11AppDelegateC", "applicationWillTerminate"]
-- ["9healthhub11AppDelegateC", "deinit"]
-- ["9healthhub11AppDelegateC", "fatalError"]
-- ["9healthhub11AppDelegateC", "init"]
-- ["9healthhub11AppDelegateC", "persistentContainer"]
-- ["9healthhub11AppDelegateC", "saveContext"]
-- ["9healthhub11AppDelegateC", "window"]
+- !private ["9HealthHub11AppDelegateC", "$__lazy_storage_$_persistentContainer"]
+- ["9HealthHub11AppDelegateC", "Bool"]
+- !private ["9HealthHub11AppDelegateC", "GMSServices"]
+- ["9HealthHub11AppDelegateC", "NSError"]
+- ["9HealthHub11AppDelegateC", "NSPersistentContainer"]
+- ["9HealthHub11AppDelegateC", "Set"]
+- ["9HealthHub11AppDelegateC", "UIApplication"]
+- ["9HealthHub11AppDelegateC", "UIScene"]
+- ["9HealthHub11AppDelegateC", "UISceneConfiguration"]
+- ["9HealthHub11AppDelegateC", "UISceneSession"]
+- ["9HealthHub11AppDelegateC", "application"]
+- ["9HealthHub11AppDelegateC", "applicationDidBecomeActive"]
+- ["9HealthHub11AppDelegateC", "applicationDidEnterBackground"]
+- ["9HealthHub11AppDelegateC", "applicationDidFinishLaunching"]
+- ["9HealthHub11AppDelegateC", "applicationDidReceiveMemoryWarning"]
+- ["9HealthHub11AppDelegateC", "applicationProtectedDataDidBecomeAvailable"]
+- ["9HealthHub11AppDelegateC", "applicationProtectedDataWillBecomeUnavailable"]
+- ["9HealthHub11AppDelegateC", "applicationShouldRequestHealthAuthorization"]
+- ["9HealthHub11AppDelegateC", "applicationSignificantTimeChange"]
+- ["9HealthHub11AppDelegateC", "applicationWillEnterForeground"]
+- ["9HealthHub11AppDelegateC", "applicationWillResignActive"]
+- ["9HealthHub11AppDelegateC", "applicationWillTerminate"]
+- ["9HealthHub11AppDelegateC", "deinit"]
+- ["9HealthHub11AppDelegateC", "fatalError"]
+- ["9HealthHub11AppDelegateC", "init"]
+- ["9HealthHub11AppDelegateC", "persistentContainer"]
+- ["9HealthHub11AppDelegateC", "saveContext"]
+- ["9HealthHub11AppDelegateC", "window"]
 - ["s7CVarArgP", "ConnectionOptions"]
 - !private ["s7CVarArgP", "GMSServices"]
 - ["s7CVarArgP", "LaunchOptionsKey"]
@@ -471,7 +471,7 @@ depends-member:
 - !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "viewContext"]
 - ["10Foundation37_KeyValueCodingAndObservingPublishingP", "window"]
 depends-nominal:
-- "9healthhub11AppDelegateC"
+- "9HealthHub11AppDelegateC"
 - "s7CVarArgP"
 - "s28CustomDebugStringConvertibleP"
 - "s23CustomStringConvertibleP"

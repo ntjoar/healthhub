@@ -141,7 +141,6 @@ depends-member:
 - !private ["So8NSObjectC", "GMSCameraPosition"]
 - !private ["So8NSObjectC", "GMSMapView"]
 - !private ["So8NSObjectC", "GMSMarker"]
-- ["So8NSObjectC", "GMSServices"]
 - !private ["So8NSObjectC", "camera"]
 - ["So8NSObjectC", "init"]
 - ["So8NSObjectC", "loadView"]
@@ -216,7 +215,6 @@ depends-member:
 - !private ["So11UIResponderC", "GMSCameraPosition"]
 - !private ["So11UIResponderC", "GMSMapView"]
 - !private ["So11UIResponderC", "GMSMarker"]
-- ["So11UIResponderC", "GMSServices"]
 - ["So11UIResponderC", "init"]
 - ["So11UIResponderC", "loadView"]
 - !private ["So11UIResponderC", "map"]
@@ -267,7 +265,6 @@ depends-member:
 - !private ["So16UIViewControllerC", "GMSCameraPosition"]
 - !private ["So16UIViewControllerC", "GMSMapView"]
 - !private ["So16UIViewControllerC", "GMSMarker"]
-- ["So16UIViewControllerC", "GMSServices"]
 - ["So16UIViewControllerC", ""]
 - ["So16UIViewControllerC", "init"]
 - ["So16UIViewControllerC", "loadView"]
@@ -278,7 +275,6 @@ depends-member:
 - !private ["9healthhub14ViewControllerC", "GMSCameraPosition"]
 - !private ["9healthhub14ViewControllerC", "GMSMapView"]
 - !private ["9healthhub14ViewControllerC", "GMSMarker"]
-- ["9healthhub14ViewControllerC", "GMSServices"]
 - ["9healthhub14ViewControllerC", "deinit"]
 - ["9healthhub14ViewControllerC", "init"]
 - ["9healthhub14ViewControllerC", "loadView"]
@@ -458,4 +454,4 @@ depends-external:
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
-interface-hash: "5ff4f914f43ee9a0e5bc91181e529a4a"
+interface-hash: "261444c55a5fc18e8c1f807b84407dba"

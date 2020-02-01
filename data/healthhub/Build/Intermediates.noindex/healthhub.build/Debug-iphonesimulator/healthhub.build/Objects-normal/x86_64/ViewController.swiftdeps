@@ -2,9 +2,9 @@
 provides-top-level:
 - "ViewController"
 provides-nominal:
-- "9healthhub14ViewControllerC"
+- "9HealthHub14ViewControllerC"
 provides-member:
-- ["9healthhub14ViewControllerC", ""]
+- ["9HealthHub14ViewControllerC", ""]
 provides-dynamic-lookup:
 - "loadView"
 - "viewDidLoad"
@@ -270,16 +270,16 @@ depends-member:
 - ["So16UIViewControllerC", "loadView"]
 - !private ["So16UIViewControllerC", "view"]
 - ["So16UIViewControllerC", "viewDidLoad"]
-- !private ["9healthhub14ViewControllerC", "CGRect"]
-- !private ["9healthhub14ViewControllerC", "CLLocationCoordinate2D"]
-- !private ["9healthhub14ViewControllerC", "GMSCameraPosition"]
-- !private ["9healthhub14ViewControllerC", "GMSMapView"]
-- !private ["9healthhub14ViewControllerC", "GMSMarker"]
-- ["9healthhub14ViewControllerC", "deinit"]
-- ["9healthhub14ViewControllerC", "init"]
-- ["9healthhub14ViewControllerC", "loadView"]
-- !private ["9healthhub14ViewControllerC", "view"]
-- ["9healthhub14ViewControllerC", "viewDidLoad"]
+- !private ["9HealthHub14ViewControllerC", "CGRect"]
+- !private ["9HealthHub14ViewControllerC", "CLLocationCoordinate2D"]
+- !private ["9HealthHub14ViewControllerC", "GMSCameraPosition"]
+- !private ["9HealthHub14ViewControllerC", "GMSMapView"]
+- !private ["9HealthHub14ViewControllerC", "GMSMarker"]
+- ["9HealthHub14ViewControllerC", "deinit"]
+- ["9HealthHub14ViewControllerC", "init"]
+- ["9HealthHub14ViewControllerC", "loadView"]
+- !private ["9HealthHub14ViewControllerC", "view"]
+- ["9HealthHub14ViewControllerC", "viewDidLoad"]
 - !private ["s30_CustomPlaygroundQuickLookableP", "zero"]
 - !private ["10Foundation27_KeyValueCodingAndObservingP", "CGRect"]
 - !private ["10Foundation27_KeyValueCodingAndObservingP", "CLLocationCoordinate2D"]
@@ -352,7 +352,7 @@ depends-nominal:
 - "So23UIUserActivityRestoringP"
 - !private "So6UIViewC"
 - "So16UIViewControllerC"
-- "9healthhub14ViewControllerC"
+- "9HealthHub14ViewControllerC"
 - !private "s30_CustomPlaygroundQuickLookableP"
 - "10Foundation27_KeyValueCodingAndObservingP"
 - "10Foundation37_KeyValueCodingAndObservingPublishingP"
