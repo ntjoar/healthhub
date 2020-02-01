@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		035E77C56FD6EC9A8A10B966 /* Pods_healthhub_healthhubUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B9649938B8782D5C7BDC2614 /* Pods_healthhub_healthhubUITests.framework */; };
 		1ED90F2D23E55D02003E989D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1ED90F2C23E55D02003E989D /* AppDelegate.swift */; };
 		1ED90F2F23E55D02003E989D /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1ED90F2E23E55D02003E989D /* SceneDelegate.swift */; };
 		1ED90F3123E55D02003E989D /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1ED90F3023E55D02003E989D /* ViewController.swift */; };
@@ -17,7 +18,8 @@
 		1ED90F4723E55D04003E989D /* healthhubTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1ED90F4623E55D04003E989D /* healthhubTests.swift */; };
 		1ED90F5223E55D04003E989D /* healthhubUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1ED90F5123E55D04003E989D /* healthhubUITests.swift */; };
 		1ED90F6023E5608E003E989D /* Podfile in Resources */ = {isa = PBXBuildFile; fileRef = 1ED90F5F23E5608E003E989D /* Podfile */; };
-		A1D8CD62CE9968E8EC1621FE /* libPods-healthhub.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 8283DCD4C87717DA03771FAB /* libPods-healthhub.a */; };
+		725F586FD4792E9AD1D17167 /* Pods_healthhubTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EE8079610DD1065377CD4E8B /* Pods_healthhubTests.framework */; };
+		D9033271746DF8002CDD5DC2 /* Pods_healthhub.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 45B082906F23C26351D764D5 /* Pods_healthhub.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -55,8 +57,14 @@
 		1ED90F5323E55D04003E989D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		1ED90F5F23E5608E003E989D /* Podfile */ = {isa = PBXFileReference; lastKnownFileType = text; path = Podfile; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		2315D4F34A8F47E75EB20AC6 /* Pods-healthhub.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-healthhub.release.xcconfig"; path = "Target Support Files/Pods-healthhub/Pods-healthhub.release.xcconfig"; sourceTree = "<group>"; };
+		3E5B39DC289B796C11705517 /* Pods-healthhubTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-healthhubTests.release.xcconfig"; path = "Target Support Files/Pods-healthhubTests/Pods-healthhubTests.release.xcconfig"; sourceTree = "<group>"; };
+		45B082906F23C26351D764D5 /* Pods_healthhub.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_healthhub.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		6CF9FDF6DD5635B2BD1A400D /* Pods-healthhub.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-healthhub.debug.xcconfig"; path = "Target Support Files/Pods-healthhub/Pods-healthhub.debug.xcconfig"; sourceTree = "<group>"; };
-		8283DCD4C87717DA03771FAB /* libPods-healthhub.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-healthhub.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		78947F6017DC2CC0FE3EC9C0 /* Pods-healthhubTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-healthhubTests.debug.xcconfig"; path = "Target Support Files/Pods-healthhubTests/Pods-healthhubTests.debug.xcconfig"; sourceTree = "<group>"; };
+		B9649938B8782D5C7BDC2614 /* Pods_healthhub_healthhubUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_healthhub_healthhubUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		CB1DD5399D1A237B28852DCF /* Pods-healthhub-healthhubUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-healthhub-healthhubUITests.release.xcconfig"; path = "Target Support Files/Pods-healthhub-healthhubUITests/Pods-healthhub-healthhubUITests.release.xcconfig"; sourceTree = "<group>"; };
+		D815BE427B051F460FC7D35E /* Pods-healthhub-healthhubUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-healthhub-healthhubUITests.debug.xcconfig"; path = "Target Support Files/Pods-healthhub-healthhubUITests/Pods-healthhub-healthhubUITests.debug.xcconfig"; sourceTree = "<group>"; };
+		EE8079610DD1065377CD4E8B /* Pods_healthhubTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_healthhubTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,7 +72,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A1D8CD62CE9968E8EC1621FE /* libPods-healthhub.a in Frameworks */,
+				D9033271746DF8002CDD5DC2 /* Pods_healthhub.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -72,6 +80,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				725F586FD4792E9AD1D17167 /* Pods_healthhubTests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -79,6 +88,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				035E77C56FD6EC9A8A10B966 /* Pods_healthhub_healthhubUITests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -146,6 +156,10 @@
 			children = (
 				6CF9FDF6DD5635B2BD1A400D /* Pods-healthhub.debug.xcconfig */,
 				2315D4F34A8F47E75EB20AC6 /* Pods-healthhub.release.xcconfig */,
+				D815BE427B051F460FC7D35E /* Pods-healthhub-healthhubUITests.debug.xcconfig */,
+				CB1DD5399D1A237B28852DCF /* Pods-healthhub-healthhubUITests.release.xcconfig */,
+				78947F6017DC2CC0FE3EC9C0 /* Pods-healthhubTests.debug.xcconfig */,
+				3E5B39DC289B796C11705517 /* Pods-healthhubTests.release.xcconfig */,
 			);
 			path = Pods;
 			sourceTree = "<group>";
@@ -153,7 +167,9 @@
 		C9A33605F32EFF99CA5F70F8 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				8283DCD4C87717DA03771FAB /* libPods-healthhub.a */,
+				45B082906F23C26351D764D5 /* Pods_healthhub.framework */,
+				B9649938B8782D5C7BDC2614 /* Pods_healthhub_healthhubUITests.framework */,
+				EE8079610DD1065377CD4E8B /* Pods_healthhubTests.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -170,6 +186,7 @@
 				1ED90F2623E55D02003E989D /* Frameworks */,
 				1ED90F2723E55D02003E989D /* Resources */,
 				61799039C531EDAA4EF7EE04 /* [CP] Copy Pods Resources */,
+				96A8592441B839CB07BDFBF7 /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -184,6 +201,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 1ED90F5923E55D04003E989D /* Build configuration list for PBXNativeTarget "healthhubTests" */;
 			buildPhases = (
+				B3014BC40EF25782B5C90A94 /* [CP] Check Pods Manifest.lock */,
 				1ED90F3E23E55D04003E989D /* Sources */,
 				1ED90F3F23E55D04003E989D /* Frameworks */,
 				1ED90F4023E55D04003E989D /* Resources */,
@@ -202,9 +220,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 1ED90F5C23E55D04003E989D /* Build configuration list for PBXNativeTarget "healthhubUITests" */;
 			buildPhases = (
+				8E9DEB9BCEF54DCCD27F6580 /* [CP] Check Pods Manifest.lock */,
 				1ED90F4923E55D04003E989D /* Sources */,
 				1ED90F4A23E55D04003E989D /* Frameworks */,
 				1ED90F4B23E55D04003E989D /* Resources */,
+				C5F9799507B6F03FDA7268CB /* [CP] Embed Pods Frameworks */,
+				31F4A4836E30B9A077707911 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -288,6 +309,23 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXShellScriptBuildPhase section */
+		31F4A4836E30B9A077707911 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-healthhub-healthhubUITests/Pods-healthhub-healthhubUITests-resources-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Copy Pods Resources";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-healthhub-healthhubUITests/Pods-healthhub-healthhubUITests-resources-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-healthhub-healthhubUITests/Pods-healthhub-healthhubUITests-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
 		61799039C531EDAA4EF7EE04 /* [CP] Copy Pods Resources */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
@@ -325,6 +363,84 @@
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
 			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		8E9DEB9BCEF54DCCD27F6580 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-healthhub-healthhubUITests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		96A8592441B839CB07BDFBF7 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-healthhub/Pods-healthhub-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-healthhub/Pods-healthhub-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-healthhub/Pods-healthhub-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		B3014BC40EF25782B5C90A94 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-healthhubTests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		C5F9799507B6F03FDA7268CB /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-healthhub-healthhubUITests/Pods-healthhub-healthhubUITests-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-healthhub-healthhubUITests/Pods-healthhub-healthhubUITests-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-healthhub-healthhubUITests/Pods-healthhub-healthhubUITests-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 /* End PBXShellScriptBuildPhase section */
@@ -544,6 +660,7 @@
 		};
 		1ED90F5A23E55D04003E989D /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 78947F6017DC2CC0FE3EC9C0 /* Pods-healthhubTests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -565,6 +682,7 @@
 		};
 		1ED90F5B23E55D04003E989D /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 3E5B39DC289B796C11705517 /* Pods-healthhubTests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -586,6 +704,7 @@
 		};
 		1ED90F5D23E55D04003E989D /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = D815BE427B051F460FC7D35E /* Pods-healthhub-healthhubUITests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
@@ -605,6 +724,7 @@
 		};
 		1ED90F5E23E55D04003E989D /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = CB1DD5399D1A237B28852DCF /* Pods-healthhub-healthhubUITests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
